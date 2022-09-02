@@ -22,4 +22,8 @@ export default function PaylonLatency(){
             Network Latency (ms): {latency}
         </div>
     );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> afe6c4b6b9c4397b3a3511e5c190feeaf488307b

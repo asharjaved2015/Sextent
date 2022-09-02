@@ -1,0 +1,10 @@
+.exhibit{
+    min-width: 200px;
+    border: 1px solid;
+    padding: 2px 5px;
+}
+.exhibit .title{
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
